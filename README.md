@@ -1,16 +1,18 @@
 👋 Hi there  I’m Mostofa Al Amin
 
+I am a dedicated and aspiring software engineer with a solid foundation in system design, full-stack web development, and software quality assurance. I possess expertise in analyzing business requirements, designing scalable solutions, developing robust applications, and ensuring the delivery of high-quality software. I am committed to solving complex problems, optimizing processes, and developing efficient, user-centric solutions.
+
 🔭 Currently working on:
-Full-stack web applications using ASP.NET (.NET), PHP, RESTful APIs, and MySQL / Oracle databases
+Full-stack web applications using ASP.NET (.NET), PHP and MySQL / Oracle databases.
 
 🌱 Currently learning:
-Advanced full-stack architecture, scalable backend design, software testing & QA (Test Scenarios, Test Cases, Bug Reporting), and requirement engineering
+Advanced full-stack architecture, scalable backend design, software testing & QA (test scenarios, test cases, bug reporting), and requirements engineering.
 
-👯 Looking to collaborate on:
-Full-stack web projects, .NET applications, backend APIs, QA/testing initiatives, and academic software systems
+👯 Open to collaborate on:
+Full-stack web projects, .NET applications, backend APIs, SQA/testing initiatives, and academic software systems.
 
 🤔 Looking for help with:
-Clean full-stack architecture, performance optimization, CI/CD basics, and real-world SQA workflows
+Clean architecture, performance optimization, CI/CD fundamentals, and real-world software quality assurance workflows.
 
 ⚡ Fun fact:
 I enjoy building end-to-end applications—from requirements and system design to development, testing, and documentation 🚀
