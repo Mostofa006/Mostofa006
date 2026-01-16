@@ -1,6 +1,6 @@
 👋 Hi there  I’m Mostofa Al Amin
 
-I am a dedicated and aspiring software engineer with a solid foundation in system design, full-stack web development, and software quality assurance. I possess expertise in analyzing business requirements, designing scalable solutions, developing robust applications, and ensuring the delivery of high-quality software. I am committed to solving complex problems, optimizing processes, and developing efficient, user-centric solutions.
+🎓 Computer Science Student at American International University–Bangladesh (AIUB)
 
 🔭 Currently working on:
 Full-stack development with ASP.NET (.NET), RESTful APIs, and databases (MySQL, Oracle, SQL Server). Gaining hands-on experience through an IT internship at icddr,b’s IT Division. Skilled in software quality assurance (SQA), system & module design, database modeling, requirement analysis, SRS preparation, and technical documentation.
@@ -16,6 +16,8 @@ Clean architecture, performance optimization, CI/CD fundamentals, and real-world
 
 ⚡ Fun fact:
 I enjoy building end-to-end applications—from requirements and system design to development, testing, and documentation 🚀
+
+I am a dedicated and aspiring software engineer with a solid foundation in system design, full-stack web development, and software quality assurance. I possess expertise in analyzing business requirements, designing scalable solutions, developing robust applications, and ensuring the delivery of high-quality software. I am committed to solving complex problems, optimizing processes, and developing efficient, user-centric solutions.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mostofa.alamin.78) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mostofaalamin78) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostofa-alamin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mostofaalamin78@gmail.com) 
