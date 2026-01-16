@@ -3,7 +3,7 @@
 I am a dedicated and aspiring software engineer with a solid foundation in system design, full-stack web development, and software quality assurance. I possess expertise in analyzing business requirements, designing scalable solutions, developing robust applications, and ensuring the delivery of high-quality software. I am committed to solving complex problems, optimizing processes, and developing efficient, user-centric solutions.
 
 🔭 Currently working on:
-Full-stack web applications using ASP.NET (.NET), PHP and MySQL / Oracle databases.
+Full-stack development with ASP.NET (.NET), RESTful APIs, and databases (MySQL, Oracle, SQL Server). Gaining hands-on experience through an IT internship at icddr,b’s IT Division. Skilled in software quality assurance (SQA), system & module design, database modeling, requirement analysis, SRS preparation, and technical documentation.
 
 🌱 Currently learning:
 Advanced full-stack architecture, scalable backend design, software testing & QA (test scenarios, test cases, bug reporting), and requirements engineering.
